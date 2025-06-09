@@ -7,8 +7,7 @@ Dataset
 The used dataset was obtained from Kaggle:
 [Netflix Titles Dataset (Kaggle) ](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-Contiene información de películas y series como:
-Contains information abour movies and series like:
+Contains information about movies and series like:
 
 Title
 
